@@ -1,0 +1,79 @@
+body {
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+  
+  }
+
+  .btn1{
+   font-family: 'Dreaming Outloud Script Pro';
+   font-size: medium;
+   letter-spacing: 5px;
+    height: 50px;
+    width: 100px;
+    border-radius:4px;
+    background-color: rgba(21, 223, 223, 0.616);
+    border-color: #eb08a7c7;
+    font-weight: bolder;
+    color: #fff;
+    cursor: pointer;
+    border-width: 5px;
+  }
+
+  .btn1:hover{
+    background-color: rgb(3, 61, 252);
+    border-color: #08a3ebc7;
+   
+  }
+   
+
+  .quest-box {
+    background: rgba(151, 152, 224, 0.2);
+    padding: 32px;
+    margin-top: 100px;
+  }
+  .questions li {
+    list-style-type: none;
+    padding-left: 0;
+    background-color: #f3f5f7;
+    padding: 16px;
+    margin-bottom: 16px;
+    font-size: 24px;
+    font-style: inherit;
+    color: black;
+  }
+  .questions li.active {
+    background: rgb(5, 5, 172);
+    color: #fff;
+  }
+  p.category {
+    font-size: 20px;
+    color: #052b52;
+  }
+  .heading {
+    margin-bottom: 32px;
+  }
+  .badge {
+    font-size: 32px;
+  }
+  .btn-primary {
+    color: #fff;
+    font-size: 24px;
+  }
+  .h{
+    text-align: center;
+    color: rgb(229, 232, 235);
+    padding-top: 315px;
+
+  }
+ .h h1{
+  font-size: 40px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #00ffdd;
+    text-shadow:2px #fff;
+    padding: 0;
+    
+ }
+ 
+  
